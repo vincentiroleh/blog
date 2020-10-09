@@ -2,11 +2,6 @@
 
 <span class="s"></span>
 
-# Saving and Investing with PiggyVest come 2020
-
-
-<noscript><img alt="Image for post" class="t u v fu aj" src="https://miro.medium.com/max/2530/1*fnGSNWd-zuKn-ybOBAPaVA.png" width="1265" height="708" srcSet="https://miro.medium.com/max/552/1*fnGSNWd-zuKn-ybOBAPaVA.png 276w, https://miro.medium.com/max/1104/1*fnGSNWd-zuKn-ybOBAPaVA.png 552w, https://miro.medium.com/max/1280/1*fnGSNWd-zuKn-ybOBAPaVA.png 640w, https://miro.medium.com/max/1400/1*fnGSNWd-zuKn-ybOBAPaVA.png 700w" sizes="700px"/></noscript>
-
 As the year ends, lets look at one of the perfect ways of kick-starting 2020 financially.
 
 In my own words, 2020 is the year of investment, be it financially or otherwise. December last year, a friend of mine introduced me to [**PiggyVest**](https://piggyvest.com/l/8d597d2) a modern financial saving and investment platform. I love to give things a try, especially if has to do with money and investment.
