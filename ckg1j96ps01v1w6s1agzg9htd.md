@@ -4,12 +4,9 @@
 
 # Create Bootable USB Media in Ubuntu Using BalenaEtcher
 
-
-<noscript><img alt="Image for post" class="t u v fu aj" src="https://miro.medium.com/max/1576/1*0VqZXv4zcLNwm58Ozo85nQ.png" width="788" height="372" srcSet="https://miro.medium.com/max/552/1*0VqZXv4zcLNwm58Ozo85nQ.png 276w, https://miro.medium.com/max/1104/1*0VqZXv4zcLNwm58Ozo85nQ.png 552w, https://miro.medium.com/max/1280/1*0VqZXv4zcLNwm58Ozo85nQ.png 640w, https://miro.medium.com/max/1400/1*0VqZXv4zcLNwm58Ozo85nQ.png 700w" sizes="700px"/></noscript>
-
 Coming from Windows, RUFUS application has been the hot chick in town when it comes to creating a bootable USB. But RUFUS only supports Windows and Mac.
 
-So if you are using Linux distributions, RUFUS is not the way to go. But fear not. Just as the case with almost every other tasks, popular Linux distros such as Ubuntu has never failed to meet the user demands. Same is the situation when you need to convert ISO to bootable USB Media in Ubuntu, Linux Mint, or any Debian distros.
+So if you are using Linux distributions, RUFUS is not the way to go. But fear not. Just as the case with almost every other task, popular Linux distros such as Ubuntu has never failed to meet the user demands. The same is the situation when you need to convert ISO to bootable USB Media in Ubuntu, Linux Mint, or any Debian distros.
 
 In this tutorial, I’m going to show you how to create a bootable USB Media in Ubuntu within a minute. So I assume you already have Ubuntu running on your PC.
 
@@ -63,7 +60,7 @@ sudo apt-get update</span>
 
 **STEP 2: Open BalenaEtcher**
 
-Search BalenaEtcher from your Application Menu, or simply press the windows key and type ‘BalenaEtcher’.
+Search BalenaEtcher from your Application Menu, or simply press the Windows key and type ‘BalenaEtcher’.
 
 ![Image for post](https://miro.medium.com/max/60/1*-DFWS5k1miXHSwka6fdeTQ.png?q=20)
 
