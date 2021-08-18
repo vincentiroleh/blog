@@ -1,4 +1,4 @@
-## Azure Storage and Azure CDN for Static Website Hosting?
+## Deploy Static Website to Azure Storage and Azure CDN
 
 Learn how to deploy a static website to Azure Storage. In addition to learning the theory behind hosting static websites to Azure, you will also learn how to implement them step-by-step.
 
