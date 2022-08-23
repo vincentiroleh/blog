@@ -1,6 +1,6 @@
 ## Implement AWS SNS by building a Nodejs API
 
-In this mini-course, we will learn what is AWS SNS and its use cases. In addition to learning the theory behind AWS SNS, you will also learn how to implement AWS SNS by building a Node.js API.
+In this mini-course, we will learn what AWS SNS is and its use cases. In addition to learning the theory behind AWS SNS, you will also learn how to implement AWS SNS by building a Node.js API.
 
 **Here are the topics covered:**
 
